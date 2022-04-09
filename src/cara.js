@@ -1,22 +1,22 @@
 const cara = (pushname, prefix, botName, ownerName) => { 
-	return `🔰 -----[ *PANDUAN PENGGUNAAN ${botName}* ]----- 🔰
+	return `🔰 -----[ *NSproGAMERSYT ${botName}* ]----- 🔰
 Hallo, ${pushname} 👋
-Berikut adalah cara penggunaan *${botName}*
+SUBSCRIBE MY CHANNEL *${botName}*
          ────────────────
-Kalo gak paham tuh baca dulu -_-
+If you don't understand, read it first -_-
          ────────────────
 ➸ *${prefix}sticker*
-Kirim gambar/video dengan caption sticker
+convert video/photos to sticker
 ➸ *${prefix}ttp*
-Text to sticker contoh : ${prefix}ttp Lann ID
+Text to sticker : ${prefix}ttp NSproYT
 ➸ *${prefix}tts*
-Suara google contoh : ${prefix}tts id Hallo IKY
+Suara google contoh : ${prefix}tts id HalloHallo NS pro YT
 ➸ *${prefix}toimg*
-Reply sticker yang mau dijadiin image
+convert images to sticker
 ➸ *${prefix}nulis*
-Untuk menulis dibuku
+To write in a book
 ➸ *${prefix}stalkig*
-Stalking instagram contoh : ${prefix}stalkig iamIKY_
+Stalking instagram contoh : ${prefix}stalkig __dream_rider_kl04
 ➸ *${prefix}quotes*
 Random quotes
 ➸ *${prefix}bikinquote*
@@ -24,11 +24,11 @@ Membuat quotes contoh : ${prefix}bikinquote Kamu gay & IKY
 ➸ *${prefix}play*
 Mendownload lagu dari youtube bisa menggunakan text atau link
 ➸ *${prefix}yutubdl*
-Mendownload video dari youtube, gunakan link ya kak
+download video from YouTube
 ➸ *${prefix}tiktod*
-Mendownload video tiktok, gunakan link kak
+download video tiktok
 ➸ *${prefix}tahta*
-Membuat lomgo, contoh : ${prefix}hartatahta Nadia
+Membuat lomgo, contoh : ${prefix}NSproGAMERSYT
 ➸ *${prefix}pornhub*
 Membuat logo, contoh : ${prefix}pornhub IKY & Hub
 Note : untuk logo maker / image maker jika undefined berarti harus memakai &
@@ -37,9 +37,9 @@ Only grup untuk fitnah orang, contoh : ${prefix}fitnah @tagtarget & Hai & Hai ju
 ➸ *${prefix}mutual*
 Gacha nomor yang ada di database / yang menggunakan bot
          ────────────────
-Note : Sisanya gunain otak kalian aja cape w jelasin :)
+Note : The rest just use your brain, I'm tired of explaining :)
          ────────────────
-🔰 -----[ *TUMTOR BY IKY ID* ]----- 🔰
+🔰 -----[ *DEVIL-BOT BY NSproYT* ]----- 🔰
 `
 }
 
