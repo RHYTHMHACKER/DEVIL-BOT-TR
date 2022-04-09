@@ -13,15 +13,17 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 npm install
 npm audit fix
 
-echo "[*] SUBSCRIBER MY YOUTUBE CHANNEL JID MODS YAH/ NAH KETIK AJA node index / npm start"
+echo "[*] SUBSCRIBER MY YOUTUBE CHANNEL NSproGAMERSYT/ NAH KETIK AJA node index / npm start"
 
 #!/usr/bin/bash
 
-figlet MechaBot system
+figlet NSproYT-BOT system
+figlet SUBSCRIBE
+
 echo -e "> Please Type Enter To Continue"
 read enter
 clear
-echo -e "\033[1;33mTHIS SCRIPT IS FREE, JUST AMEL ASKING FOR HELP\nDON'T FORGET TO SUBSCRIBE YA\n CHANNEL YOUTUBE JID MODS\033[0m\n"
+echo -e "\033[1;33mTHIS SCRIPT IS FREE, NSproGAMERSYT ASKING FOR HELP\nDON'T FORGET TO SUBSCRIBE YA\n CHANNEL YOUTUBE JID MODS\033[0m\n"
 echo -e "> enter to next"
 read enter
 clear
