@@ -43,7 +43,7 @@ $ pkg install curl
 $ pkg install toilet 
 $ pkg install openssh 
 $ pkg install bash 
-$ pkg installmc
+$ pkg install mc
 ```
 ###
 <p align="center">
