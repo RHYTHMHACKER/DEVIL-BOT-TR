@@ -1,7 +1,7 @@
 [
     {
-	"teks": "Mikoto Mikoshiba",
-	"image": "http://storage.jurnalotaku.com/wp-content/uploads/2017/08/joi-mikorin-featured-700x394.jpg"
+	"teks": "NSproGAMERSYT",
+	"image": "https://i.imgur.com/FGMyUus.jpeg"
     },
     {
 	"teks": "(Top Leader) Mikazuki Augus",
