@@ -1,7 +1,7 @@
 const addfoto = () => { 
 	return `
 	
-	*ADD DATABASE FOTO*
+	*ADD DATABASE PHOTO*
 	
 	FOTO BERHASIL DISIMPAN KE DATA!
 	
