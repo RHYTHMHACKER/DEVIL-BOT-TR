@@ -41,20 +41,6 @@ $ pkg install bash
 $ pkg installmc
 ```
  
-##
-
-<h3 align="center">
-
-:: Workflow ::
-
-</h3>
-
-<p align="center">
-
-<img src=".imgs/NSproYT.gif"/>
-
-</p>
-
 ### Special Thanks :
 
 - [**NSproGAMERSYT**](https://youtube.com/c/NSproGAMERSYT1)
