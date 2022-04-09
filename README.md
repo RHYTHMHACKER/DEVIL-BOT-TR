@@ -40,6 +40,12 @@ $ pkg install openssh
 $ pkg install bash 
 $ pkg installmc
 ```
+###
+<p align="center">
+
+<img src=".imgs/NSproYT.gif"/>
+
+</p>
  
 ### Special Thanks :
 
