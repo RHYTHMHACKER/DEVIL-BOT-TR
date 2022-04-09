@@ -20,4 +20,37 @@ $ npm audit
 $ npm audit fix 
 $ node index.js
 ```
+## BASIC INSTALL PACKAGE
+
+$ termux-setup-storage
+
+$ pkg update 
+
+$ pkg upgrade 
+
+$ pkg install python 
+
+$ pkg install python2 
+
+$ pkg install git 
+
+$ pkg install wget
+
+$ pkg install figlet 
+
+$ pkg install nano 
+
+$ pkg install ruby 
+
+$ pkg install php 
+
+$ pkg install curl 
+
+$ pkg install toilet 
+
+$ pkg install openssh 
+
+$ pkg install bash 
+
+$ pkg install mc
       
