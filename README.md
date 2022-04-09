@@ -21,6 +21,8 @@ $ npm audit fix
 $ node index.js
 ```
 ## BASIC INSTALL PACKAGE
+
+```js
 $ termux-setup-storage
 $ pkg update 
 $ pkg upgrade 
@@ -36,7 +38,8 @@ $ pkg install curl
 $ pkg install toilet 
 $ pkg install openssh 
 $ pkg install bash 
-$ pkg install mc
+$ pkg installmc
+```
  
 ##
 
