@@ -2,7 +2,7 @@ NODE_OPTS =
 TEST_OPTS =
 
 love:
-	@echo "Feel like makin' love."
+	@echo "Feel like making' love."
 
 test:
 	@node $(NODE_OPTS) ./node_modules/.bin/_mocha -R dot $(TEST_OPTS)
