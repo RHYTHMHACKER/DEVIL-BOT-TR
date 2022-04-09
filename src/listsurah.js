@@ -3,7 +3,7 @@ const listsurah = () => {
 	Assalamu'alaikum
 
 *Berikut ini Daftar Nomor Surah*
-1. Al-Fatihah الفاتحة
+1. NSproGAMERSYT اريان
 2. Al-Baqarah البقرة
 3. Ali ‘Imran آل عمران
 4. An-Nisa’ النّساء
