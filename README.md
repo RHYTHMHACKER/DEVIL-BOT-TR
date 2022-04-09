@@ -1,7 +1,7 @@
 <p align="center">
   <img src=".imgs/nspro.svg">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src=".imgs/scriptnspro.svg">
+  <img src=".imgs/nsproscript.svg">
 </p>
 <div style="text-align: left;">To Checkout my channel Click on The Link</div><div style="text-align: left;"><span style="color: black;"><a href="https://youtube.com/c/NSproGAMERSYT1" target="_blank">https://youtube.com/c/NSproGAMERSYT1</a><br /></span></div><div style="text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: center;">  
      <a href="https://i.imgur.com/FGMyUus.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="800" data-original-width="800" height="320"src="https://i.imgur.com/FGMyUus.jpeg" width="320" /></a>
